@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "きっと忘れない (Live at 名古屋国際会議場センチュリー・ホール 1991/06/29)",
+  "base_artist": "Yutaka Ozaki",
+  "createdAt": "2025-12-26T16:04:36.183267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きっと忘れない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/01_きっと忘れない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きっと忘れない",
+      "artist": "ribbon",
+      "has_synced": false,
+      "path": "select/02_きっと忘れない_ribbon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "きっと忘れない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/03_きっと忘れない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "きっと忘れない",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/04_きっと忘れない_ZARD.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "きっと忘れない",
+      "artist": "Majiko",
+      "has_synced": true,
+      "path": "select/05_きっと忘れない_Majiko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "きっと忘れない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/06_きっと忘れない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "きっと忘れない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/07_きっと忘れない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "きっと忘れない",
+      "artist": "七瀬 遙 (CV.島﨑信長)",
+      "has_synced": true,
+      "path": "select/08_きっと忘れない_七瀬_遙_(CV.島﨑信長).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "きっと忘れない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/09_きっと忘れない_ZARD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きっと忘れない",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_01_きっと忘れない_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "きっと忘れない",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_02_きっと忘れない_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "きっと忘れない ～Happy Birthday～",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_03_きっと忘れない_~Happy_Birthday~_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "きっと忘れない ～Happy Birthday～",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_04_きっと忘れない_~Happy_Birthday~_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "きっと忘れない ～Happy Birthday～",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_05_きっと忘れない_~Happy_Birthday~_尾崎_豊.txt"
+    }
+  ]
+}
